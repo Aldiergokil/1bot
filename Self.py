@@ -250,7 +250,7 @@ KAC=[aldier]
 mid = aldier.getProfile().mid
 Bots=[mid]
 Creator=["u1541ccc69edf22556861a136659b51e6"]
-admin=["u1541ccc69edf22556861a136659b51e6]
+admin=["u1541ccc69edf22556861a136659b51e6"]
 
 contact = aldier.getProfile()
 backup1 = aldier.getProfile()
@@ -363,7 +363,7 @@ def mention(to, nama):
     msg.contentMetadata ={'MENTION':'{"MENTIONEES":['+aa+']}','EMTVER':'4'}
     print "[Command] Tag All"
     try:
-       cl.sendMessage(msg)
+       aldier.sendMessage(msg)
     except Exception as error:
        print error
 
@@ -386,7 +386,7 @@ def mention2(to, nama):
     msg.contentMetadata ={'MENTION':'{"MENTIONEES":['+aa+']}','EMTVER':'4'}
     print "[Command] Tag All"
     try:
-       cl.sendMessage(msg)
+       aldier.sendMessage(msg)
     except Exception as error:
        print error
 
@@ -2042,9 +2042,9 @@ def bot(op):
         
 
 
-            elif msg.text in ["Abah","Tagall"]:
+            elif msg.text in ["Tagall","Tag all"]:
             	 if msg.from_ in admin:              
-                    group = cl.getGroup(msg.to)
+                    group = aldier.getGroup(msg.to)
                     nama = [contact.mid for contact in group.members]
                     nm1, nm2, nm3, nm4, nm5, jml = [], [], [], [], [], len(nama)
                     if jml <= 100:
@@ -2096,11 +2096,11 @@ def bot(op):
                             nm5 += [nama[h]]
                         mention2(msg.to, nm5)
                     if jml > 500:
-                        cl.sendText(msg.to,'Member melebihi batas.')
+                        aldier.sendText(msg.to,'Member melebihi batas.')
                     cnt = Message()
                     cnt.text = "Done : " + str(jml) +  " Members"
                     cnt.to = msg.to
-                    cl.sendMessage(cnt)
+                    aldier.sendMessage(cnt)
 
 
             elif msg.text in ["Setview","Setpoint","Cctv"]:
