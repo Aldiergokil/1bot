@@ -343,6 +343,52 @@ def download_page(url):
             return page
         except:
             return"Page Not found"
+       
+def mention(to, nama):
+    aa = ""
+    bb = ""
+    strt = int(14)
+    akh = int(14)
+    nm = nama
+    for mm in nm:
+      akh = akh + 2
+      aa += """{"S":"""+json.dumps(str(strt))+""","E":"""+json.dumps(str(akh))+""","M":"""+json.dumps(mm)+"},"""
+      strt = strt + 6
+      akh = akh + 4
+      bb += "\xe2\x95\xa0 @x \n"
+    aa = (aa[:int(len(aa)-1)])
+    msg = Message()
+    msg.to = to
+    msg.text = "\xe2\x95\x94\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\n"+bb+"\xe2\x95\x9a\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90"
+    msg.contentMetadata ={'MENTION':'{"MENTIONEES":['+aa+']}','EMTVER':'4'}
+    print "[Command] Tag All"
+    try:
+       cl.sendMessage(msg)
+    except Exception as error:
+       print error
+
+def mention2(to, nama):
+    aa = ""
+    bb = ""
+    strt = int(14)
+    akh = int(14)
+    nm = nama
+    for mm in nm:
+      akh = akh + 2
+      aa += """{"S":"""+json.dumps(str(strt))+""","E":"""+json.dumps(str(akh))+""","M":"""+json.dumps(mm)+"},"""
+      strt = strt + 6
+      akh = akh + 4
+      bb += "\xe2\x95\xa0 @x \n"
+    aa = (aa[:int(len(aa)-1)])
+    msg = Message()
+    msg.to = to
+    msg.text = "\xe2\x95\x94\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\n"+bb+"\xe2\x95\x9a\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90"
+    msg.contentMetadata ={'MENTION':'{"MENTIONEES":['+aa+']}','EMTVER':'4'}
+    print "[Command] Tag All"
+    try:
+       cl.sendMessage(msg)
+    except Exception as error:
+       print error
 
 
 def _images_get_next_item(s):
@@ -1996,32 +2042,65 @@ def bot(op):
         
 
 
-            elif msg.text in ["Tagall","Tag all"]:
-                  group = aldier.getGroup(msg.to)
-                  nama = [contact.mid for contact in group.members]
-
-                  cb = ""
-                  cb2 = ""
-                  strt = int(0)
-                  akh = int(0)
-                  for md in nama:
-                      akh = akh + int(6)
-
-                      cb += """{"S":"""+json.dumps(str(strt))+""","E":"""+json.dumps(str(akh))+""","M":"""+json.dumps(md)+"},"""
-
-                      strt = strt + int(7)
-                      akh = akh + 1
-                      cb2 += "@nrik \n"
-
-                  cb = (cb[:int(len(cb)-1)])
-                  msg.contentType = 0
-                  msg.text = cb2
-                  msg.contentMetadata ={'MENTION':'{"MENTIONEES":['+cb+']}','EMTVER':'4'}
-
-                  try:
-                      aldier.sendMessage(msg)
-                  except Exception as error:
-                      print error
+            elif msg.text in ["Abah","Tagall"]:
+            	 if msg.from_ in admin:              
+                    group = cl.getGroup(msg.to)
+                    nama = [contact.mid for contact in group.members]
+                    nm1, nm2, nm3, nm4, nm5, jml = [], [], [], [], [], len(nama)
+                    if jml <= 100:
+                        mention2(msg.to, nama)
+                    if jml > 100 and jml < 200:
+                        for i in range(0, 100):
+                            nm1 += [nama[i]]
+                        mention2(msg.to, nm1)
+                        for j in range(101, len(nama)):
+                            nm2 += [nama[j]]
+                        mention2(msg.to, nm2)
+                    if jml > 200 and jml < 300:
+                        for i in range(0, 100):
+                            nm1 += [nama[i]]
+                        mention2(msg.to, nm1)
+                        for j in range(101, 200):
+                            nm2 += [nama[j]]
+                        mention2(msg.to, nm2)
+                        for k in range(201, len(nama)):
+                            nm3 += [nama[k]]
+                        mention2(msg.to, nm3)
+                    if jml > 300 and jml < 400:
+                        for i in range(0, 100):
+                            nm1 += [nama[i]]
+                        mention2(msg.to, nm1)
+                        for j in range(101, 200):
+                            nm2 += [nama[j]]
+                        mention2(msg.to, nm2)
+                        for k in range(201, 300):
+                            nm3 += [nama[k]]
+                        mention2(msg.to, nm3)
+                        for l in range(301, len(nama)):
+                            nm4 += [nama[l]]
+                        mention2(msg.to, nm4)
+                    if jml > 400 and jml < 500:
+                        for i in range(0, 100):
+                            nm1 += [nama[i]]
+                        mention2(msg.to, nm1)
+                        for j in range(101, 200):
+                            nm2 += [nama[j]]
+                        mention2(msg.to, nm2)
+                        for k in range(201, 300):
+                            nm3 += [nama[k]]
+                        mention2(msg.to, nm3)
+                        for l in range(301, 400):
+                            nm4 += [nama[l]]
+                        mention2(msg.to, nm4)
+                        for h in range(401, len(nama)):
+                            nm5 += [nama[h]]
+                        mention2(msg.to, nm5)
+                    if jml > 500:
+                        cl.sendText(msg.to,'Member melebihi batas.')
+                    cnt = Message()
+                    cnt.text = "Done : " + str(jml) +  " Members"
+                    cnt.to = msg.to
+                    cl.sendMessage(cnt)
 
 
             elif msg.text in ["Setview","Setpoint","Cctv"]:
