@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 aldier = LINETCR.LINE()
 #aldier.login(qr=True)
-aldier.login(token='EokmR4KCTjdi6kmpGkq6.fuhmXP7FiLvOyAe2zzTr5G.vJ5B2EzpyWnaJils/wna9wJfmLL2iQ7K2Y1+wqGEMDo=')
+aldier.login(token='Eowp40VhU6bnKJaPAsV6.fuhmXP7FiLvOyAe2zzTr5G.lBFLvgo/ouxXK8QH4eQa/a3qJOaMwXo0DtFxNz9a8UM=')
 aldier.loginResult()
 print "aldier-Login Success\n\n=====[Sukses Login]====="
 
