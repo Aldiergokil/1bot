@@ -360,7 +360,7 @@ wait = {
     "LeaveRoom":True,
     "AutoJoin":False,
     "AutoJoinCancel":True,
-    "memberscancel":30,
+    "memberscancel":5,
     "Members":1,
     "AutoCancel":{},
     "AutoCancelon":False,  
