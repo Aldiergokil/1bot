@@ -51,260 +51,260 @@ sys.setdefaultencoding('utf-8')
 
 
 selfMessage ="""
-??????????????????????
-?            ?? S E L F ??
-??????????????????????
-???Hi?
-???Me?
-???Mymid?
-???Mid @?
-???SearchID: (ID LINE)?
-???Checkdate (DD/MM/YY)?
-???Kalender?
-???Steal contact?
-???Pp @?
-???Cover @?
-???Auto like?
-???Scbc Text?
-???Cbc Text?
-???Gbc Text?
-???Getbio @?
-???Getinfo @?
-???Getname @?
-???Getprofile @?
-???Getcontact @?
-???Getvid @?
-???Friendlist?
-??????????????????????
-?             ? By : AldierGokil ?
-?    ?? line.me/ti/p/~aldiergokil04 ??
-??????????????????????
+╔═════════════════════
+║            ☆☞ S E L F ☜☆
+╠═════════════════════
+╠➩〘Hi〙
+╠➩〘Me〙
+╠➩〘Mymid〙
+╠➩〘Mid @〙
+╠➩〘SearchID: (ID LINE)〙
+╠➩〘Checkdate (DD/MM/YY)〙
+╠➩〘Kalender〙
+╠➩〘Steal contact〙
+╠➩〘Pp @〙
+╠➩〘Cover @〙
+╠➩〘Auto like〙
+╠➩〘Scbc Text〙
+╠➩〘Cbc Text〙
+╠➩〘Gbc Text〙
+╠➩〘Getbio @〙
+╠➩〘Getinfo @〙
+╠➩〘Getname @〙
+╠➩〘Getprofile @〙
+╠➩〘Getcontact @〙
+╠➩〘Getvid @〙
+╠➩〘Friendlist〙
+╠═════════════════════
+║             💠 By : AldierGokil 💠
+║    〽️ line.me/ti/p/~aldiergokil04 〽️
+╚═════════════════════
 """
 
 botMessage ="""
-??????????????????????
-?             ?? B O T ??
-??????????????????????
-???Absen?
-???Respon?
-???Runtime?
-???Kapten copy @?
-???TC1 copy @?
-???TC2 copy @?
-???TC3 copy @?
-???TC4 copy @?
-???Backup all?
-???/bio Text?
-???@bye (Usir Kapten)?
-???Bye all (Usir Semua)?
-??????????????????????
-?             ? By : AldierGokil ?
-?    ?? line.me/ti/p/~aldiergokil04 ??
-??????????????????????
+╔═════════════════════
+║             ☆☞ B O T ☜☆
+╠═════════════════════
+╠➩〘Absen〙
+╠➩〘Respon〙
+╠➩〘Runtime〙
+╠➩〘Kapten copy @〙
+╠➩〘TC1 copy @〙
+╠➩〘TC2 copy @〙
+╠➩〘TC3 copy @〙
+╠➩〘TC4 copy @〙
+╠➩〘Backup all〙
+╠➩〘/bio Text〙
+╠➩〘@bye (Usir Kapten)〙
+╠➩〘Bye all (Usir Semua)〙
+╠═════════════════════
+║             💠 By : AldierGokil 💠
+║    〽️ line.me/ti/p/~aldiergokil04 〽️
+╚═════════════════════
 """
 
 mediaMessage ="""
-??????????????????????
-?           ?? M E D I A ??
-??????????????????????
-???Gift?
-???Gift1 @ s/d Gift10 @?
-???Giftbycontact?
-???All gift?
-???Gif gore?
-???Google: (Text)?
-???Playstore NamaApp?
-???Fancytext: Text?
-???/musik Judul-Penyanyi?
-???/lirik Judul-Penyanyi?
-???/musrik Judul-Penyanyi?
-???/ig UrsnameInstagram?
-???Checkig UrsnameInstagram?
-???/apakah Text (Kerang Ajaib)?
-???/kapan Text (Kerang Ajaib)?
-???/hari Text (Kerang Ajaib)?
-???/berapa Text (Kerang Ajaib)?
-???/berapakah Text?
-???Youtubelink: Judul Video?
-???Youtubevideo: Judul Video?
-???Youtubesearch: Judul Video?
-???Image NamaGambar?
-???Say-id Text?
-???Say-en Text?
-???Say-jp Text?
-???Image NamaGambar?
-???Tr-id Text (Translate En Ke ID?
-???Tr-en Text (Translate ID Ke En?
-???Tr-th Text (Translate ID Ke Th?
-???Id@en Text (Translate ID Ke En?
-???Id@th Text (Translate ID Ke TH?
-???Id@jp Text (Translate Id Ke Jp?
-???Jp@id Text (Translate Jp Ke Id?
-???Ko@id Text (Translate Ko Ke ID?
-???Id@Ko Text (Translate Id Ke Ko?
-??????????????????????
-?             ? By : AldierGokil ?
-?    ?? line.me/ti/p/~aldiergokil04 ??
-??????????????????????
+╔═════════════════════
+║           ☆☞ M E D I A ☜☆
+╠═════════════════════
+╠➩〘Gift〙
+╠➩〘Gift1 @ s/d Gift10 @〙
+╠➩〘Giftbycontact〙
+╠➩〘All gift〙
+╠➩〘Gif gore〙
+╠➩〘Google: (Text)〙
+╠➩〘Playstore NamaApp〙
+╠➩〘Fancytext: Text〙
+╠➩〘/musik Judul-Penyanyi〙
+╠➩〘/lirik Judul-Penyanyi〙
+╠➩〘/musrik Judul-Penyanyi〙
+╠➩〘/ig UrsnameInstagram〙
+╠➩〘Checkig UrsnameInstagram〙
+╠➩〘/apakah Text (Kerang Ajaib)〙
+╠➩〘/kapan Text (Kerang Ajaib)〙
+╠➩〘/hari Text (Kerang Ajaib)〙
+╠➩〘/berapa Text (Kerang Ajaib)〙
+╠➩〘/berapakah Text〙
+╠➩〘Youtubelink: Judul Video〙
+╠➩〘Youtubevideo: Judul Video〙
+╠➩〘Youtubesearch: Judul Video〙
+╠➩〘Image NamaGambar〙
+╠➩〘Say-id Text〙
+╠➩〘Say-en Text〙
+╠➩〘Say-jp Text〙
+╠➩〘Image NamaGambar〙
+╠➩〘Tr-id Text (Translate En Ke ID〙
+╠➩〘Tr-en Text (Translate ID Ke En〙
+╠➩〘Tr-th Text (Translate ID Ke Th〙
+╠➩〘Id@en Text (Translate ID Ke En〙
+╠➩〘Id@th Text (Translate ID Ke TH〙
+╠➩〘Id@jp Text (Translate Id Ke Jp〙
+╠➩〘Jp@id Text (Translate Jp Ke Id〙
+╠➩〘Ko@id Text (Translate Ko Ke ID〙
+╠➩〘Id@Ko Text (Translate Id Ke Ko〙
+╠═════════════════════
+║             💠 By : AldierGokil 💠
+║    〽️ line.me/ti/p/~aldiergokil04 〽️
+╚═════════════════════
 """
 
 groupMessage ="""
-??????????????????????
-?           ?? G R O U P ??
-??????????????????????
-???Welcome?
-???Say welcome?
-???Invite creator?
-???Setview?
-???Viewseen?
-???Gn: (NamaGroup)?
-???Tag all?
-???Recover?
-???Cancel?
-???Cancelall?
-???Gcreator?
-???Ginfo?
-???Gurl?
-???List group?
-???Pict group: (NamaGroup)?
-???Spam: (Text)?
-???Spam?
-???Add all?
-???Kick: (Mid)?
-???Invite: (Mid)?
-???Invite?
-???Memlist?
-???Getgroup image?
-???Urlgroup Image?
-??????????????????????
-?             ? By : AldierGokil ?
-?    ?? line.me/ti/p/~aldiergokil04 ??
-??????????????????????
+╔═════════════════════
+║           ☆☞ G R O U P ☜☆
+╠═════════════════════
+╠➩〘Welcome〙
+╠➩〘Say welcome〙
+╠➩〘Invite creator〙
+╠➩〘Setview〙
+╠➩〘Viewseen〙
+╠➩〘Gn: (NamaGroup)〙
+╠➩〘Tag all〙
+╠➩〘Recover〙
+╠➩〘Cancel〙
+╠➩〘Cancelall〙
+╠➩〘Gcreator〙
+╠➩〘Ginfo〙
+╠➩〘Gurl〙
+╠➩〘List group〙
+╠➩〘Pict group: (NamaGroup)〙
+╠➩〘Spam: (Text)〙
+╠➩〘Spam〙
+╠➩〘Add all〙
+╠➩〘Kick: (Mid)〙
+╠➩〘Invite: (Mid)〙
+╠➩〘Invite〙
+╠➩〘Memlist〙
+╠➩〘Getgroup image〙
+╠➩〘Urlgroup Image〙
+╠═════════════════════
+║             💠 By : AldierGokil 💠
+║    〽️ line.me/ti/p/~aldiergokil04 〽️
+╚═════════════════════
 """
 tjia="u1541ccc69edf22556861a136659b51e6"
 
 setMessage ="""
-??????????????????????
-?              ?? S E T ??
-??????????????????????
-???Sambutan on/off?
-???Url on/off?
-???Alwaysread on/off?
-???Sider on/off?
-???Contact on/off?
-???Simisimi on/off?
-??????????????????????
-?             ? By : AldierGokil ?
-?    ?? line.me/ti/p/~aldiergokil04 ??
-??????????????????????
+╔═════════════════════
+║              ☆☞ S E T ☜☆
+╠═════════════════════
+╠➩〘Sambutan on/off〙
+╠➩〘Url on/off〙
+╠➩〘Alwaysread on/off〙
+╠➩〘Sider on/off〙
+╠➩〘Contact on/off〙
+╠➩〘Simisimi on/off〙
+╠═════════════════════
+║             💠 By : AldierGokil 💠
+║    〽️ line.me/ti/p/~aldiergokil04 〽️
+╚═════════════════════
 """
 
 creatorMessage ="""
-??????????????????????
-?         ?? C R E A T O R ??
-??????????????????????
-???Admin add @?
-???Admin remove @?
-???/cnkapten?
-???/cntc1?
-???/cntc2?
-???/cntc3?
-???/cntc4?
-???Crash?
-???Kickall?
-???Bc: (Text)?
-???Nk: @?
-???Ulti @?
-???Join group: (NamaGroup?
-???Leave group: (NamaGroup?
-???Leave all group?
-???Bot restart?
-???Turn off?
-??????????????????????
-?             ? By : AldierGokil ?
-?    ?? line.me/ti/p/~aldiergokil04 ??
-??????????????????????
+╔═════════════════════
+║         ☆☞ C R E A T O R ☜☆
+╠═════════════════════
+╠➩〘Admin add @〙
+╠➩〘Admin remove @〙
+╠➩〘/cnkapten〙
+╠➩〘/cntc1〙
+╠➩〘/cntc2〙
+╠➩〘/cntc3〙
+╠➩〘/cntc4〙
+╠➩〘Crash〙
+╠➩〘Kickall〙
+╠➩〘Bc: (Text)〙
+╠➩〘Nk: @〙
+╠➩〘Ulti @〙
+╠➩〘Join group: (NamaGroup〙
+╠➩〘Leave group: (NamaGroup〙
+╠➩〘Leave all group〙
+╠➩〘Bot restart〙
+╠➩〘Turn off〙
+╠═════════════════════
+║             💠 By : AldierGokil 💠
+║    〽️ line.me/ti/p/~aldiergokil04 〽️
+╚═════════════════════
 """
 
 adminMessage ="""
-??????????????????????
-?            ?? A D M I N ??
-??????????????????????
-???Admin list?
-???Ban?
-???Unban?
-???Ban @?
-???Unban @?
-???Ban list?
-???Clear ban?
-???Kill?
-???Kick @?
-???Set member: (Jumblah)?
-???Ban group: (NamaGroup?
-???Del ban: (NamaGroup?
-???List ban?
-???Kill ban?
-???Glist?
-???Glistmid?
-???Details group: (Gid)?
-???Cancel invite: (Gid)?
-???Invitemeto: (Gid)?
-???Kapten acc invite?
-???TC1 acc invite?
-???TC2 acc invite?
-???TC3 acc invite?
-???TC4 acc invite?
-???Removechat?
-???Join on/off?
-???Joincancel on/off?
-???Respon on/off?
-???Responkick on/off?
-???Leave on/off?
-???All join / (TC1/2/3/4 Join)?
-??????????????????????
-?             ? By : AldierGokil ?
-?    ?? line.me/ti/p/~aldiergokil04 ??
-??????????????????????
+╔═════════════════════
+║            ☆☞ A D M I N ☜☆
+╠═════════════════════
+╠➩〘Admin list〙
+╠➩〘Ban〙
+╠➩〘Unban〙
+╠➩〘Ban @〙
+╠➩〘Unban @〙
+╠➩〘Ban list〙
+╠➩〘Clear ban〙
+╠➩〘Kill〙
+╠➩〘Kick @〙
+╠➩〘Set member: (Jumblah)〙
+╠➩〘Ban group: (NamaGroup〙
+╠➩〘Del ban: (NamaGroup〙
+╠➩〘List ban〙
+╠➩〘Kill ban〙
+╠➩〘Glist〙
+╠➩〘Glistmid〙
+╠➩〘Details group: (Gid)〙
+╠➩〘Cancel invite: (Gid)〙
+╠➩〘Invitemeto: (Gid)〙
+╠➩〘Kapten acc invite〙
+╠➩〘TC1 acc invite〙
+╠➩〘TC2 acc invite〙
+╠➩〘TC3 acc invite〙
+╠➩〘TC4 acc invite〙
+╠➩〘Removechat〙
+╠➩〘Join on/off〙
+╠➩〘Joincancel on/off〙
+╠➩〘Respon on/off〙
+╠➩〘Responkick on/off〙
+╠➩〘Leave on/off〙
+╠➩〘All join / (TC1/2/3/4 Join)〙
+╠═════════════════════
+║             💠 By : AldierGokil 💠
+║    〽️ line.me/ti/p/~aldiergokil04 〽️
+╚═════════════════════
 """
 
 helpMessage ="""
-??????????????????????
-?              ?? H E L P ??
-??????????????????????
-???Help protect?
-???Help self?
-???Help bot?
-???Help group?
-???Help set?
-???Help media?
-???Help admin?
-???Help creator?
-???Owner?
-???Pap owner?
-???Admin?
-???Speed?
-???Speed test?
-???Status?
-??????????????????????
-?             ? By : AldierGokil ?
-?    ?? line.me/ti/p/~aldiergokil04 ??
-??????????????????????
+╔═════════════════════
+║              ☆☞ H E L P ☜☆
+╠═════════════════════
+╠➩〘Help protect〙
+╠➩〘Help self〙
+╠➩〘Help bot〙
+╠➩〘Help group〙
+╠➩〘Help set〙
+╠➩〘Help media〙
+╠➩〘Help admin〙
+╠➩〘Help creator〙
+╠➩〘Owner〙
+╠➩〘Pap owner〙
+╠➩〘Admin〙
+╠➩〘Speed〙
+╠➩〘Speed test〙
+╠➩〘Status〙
+╠═════════════════════
+║             💠 By : AldierGokil 💠
+║    〽️ line.me/ti/p/~aldiergokil04 〽️
+╚═════════════════════
 """
 
 protectMessage ="""
-??????????????????????
-?           ?? P R O T E C T ??
-??????????????????????
-???Allprotect on/off?
-???Autocancel on/off?
-???Qr on/off?
-???Autokick on/off?
-???Ghost on/off?
-???Invitepro on/off?
-??????????????????????
-?             ? By : AldierGokil ?
-?    ?? line.me/ti/p/~aldiergokil04 ??
-??????????????????????
+╔═════════════════════
+║           ☆☞ P R O T E C T ☜☆
+╠═════════════════════
+╠➩〘Allprotect on/off〙
+╠➩〘Autocancel on/off〙
+╠➩〘Qr on/off〙
+╠➩〘Autokick on/off〙
+╠➩〘Ghost on/off〙
+╠➩〘Invitepro on/off〙
+╠═════════════════════
+║             💠 By : AldierGokil 💠
+║    〽️ line.me/ti/p/~aldiergokil04 〽️
+╚═════════════════════
 """
 
 
@@ -377,14 +377,14 @@ wait = {
     'kickMention':False,      
     'timeline':True,
     "Timeline":True,
-    "comment1":"Bot Auto Like �By : AldierGokil\nContact Me : ? line.me/ti/p/~aldiergokil04",
-    "comment2":"Bot Auto Like �By : AldierGokil\nContact Me : ? line.me/ti/p/~aldiergokil04",
-    "comment3":"Bot Auto Like �By : AldierGokil\nContact Me : ? line.me/ti/p/~aldiergokil04",
+    "comment1":"Bot Auto Like ©By : AldierGokil\nContact Me : 👉 line.me/ti/p/~aldiergokil04",
+    "comment2":"Bot Auto Like ©By : AldierGokil\nContact Me : 👉 line.me/ti/p/~aldiergokil04",
+    "comment3":"Bot Auto Like ©By : AldierGokil\nContact Me : 👉 line.me/ti/p/~aldiergokil04",
     "comment4":"Nice Kak (^_^)",
-    "comment5":"Bot Auto Like �By : AldierGokil\nContact Me : ? line.me/ti/p/~aldiergokil04",    
+    "comment5":"Bot Auto Like ©By : AldierGokil\nContact Me : 👉 line.me/ti/p/~aldiergokil04",    
     "commentOn":True,
     "commentBlack":{},
-    "message":"Thx For Add Me (^_^)\nInvite Me To Your Group ?(^_^)?",    
+    "message":"Thx For Add Me (^_^)\nInvite Me To Your Group ヘ(^_^)ヘ",    
     "blacklist":{},
     "wblacklist":False,
     "dblacklist":False,
@@ -481,7 +481,7 @@ def waktu(secs):
     return '%02d Jam %02d Menit %02d Detik' % (hours, mins, secs)      
     
 def cms(string, commands): #/XXX, >XXX, ;XXX, ^XXX, %XXX, $XXX...
-    tex = ["+","@","/",">",";","^","%","$","^","???:","???:","???:","???:"]
+    tex = ["+","@","/",">",";","^","%","$","＾","サテラ:","サテラ:","サテラ：","サテラ："]
     for texX in tex:
         for command in commands:
             if string ==command:
@@ -664,15 +664,15 @@ def bot(op):
                             if Name in cctv['sidermem'][op.param1]:
                                 pass
                             else:
-                                cctv['sidermem'][op.param1] += "\n. " + Name
+                                cctv['sidermem'][op.param1] += "\n• " + Name
                                 if " " in Name:
                                     nick = Name.split(' ')
                                     if len(nick) == 2:
-                                        random.choice(KAC).sendText(op.param1, "Haii " + "? " + nick[0] + " ?" + "\nNgintip Aja Niih. . .\nChat Kek Idiih (-__-)   ")
+                                        random.choice(KAC).sendText(op.param1, "Haii " + "☞ " + nick[0] + " ☜" + "\nNgintip Aja Niih. . .\nChat Kek Idiih (-__-)   ")
                                     else:
-                                        random.choice(KAC).sendText(op.param1, "Haii " + "? " + nick[1] + " ?" + "\nBetah Banget Jadi Penonton. . .\nChat Napa (-__-)   ")
+                                        random.choice(KAC).sendText(op.param1, "Haii " + "☞ " + nick[1] + " ☜" + "\nBetah Banget Jadi Penonton. . .\nChat Napa (-__-)   ")
                                 else:
-                                    random.choice(KAC).sendText(op.param1, "Haii " + "? " + Name + " ?" + "\nNgapain Kak Ngintip Aja???\nSini Gabung Chat...   ")
+                                    random.choice(KAC).sendText(op.param1, "Haii " + "☞ " + Name + " ☜" + "\nNgapain Kak Ngintip Aja???\nSini Gabung Chat...   ")
                         else:
                             pass
                     else:
@@ -781,7 +781,7 @@ def bot(op):
 			kr.acceptGroupInvitationByTicket(op.param1,Ti)
 			G.preventJoinByTicket = True
 			cl.updateGroup(G)
-			cl.sendText(op.param1,"?Ketik ?Help? Untuk Bantuan?\n?Harap Gunakan Dengan Bijak ^_^ ?")
+			cl.sendText(op.param1,"☆Ketik ☞Help☜ Untuk Bantuan☆\n☆Harap Gunakan Dengan Bijak ^_^ ☆")
                         		    
  
 	    if mid in op.param3:
@@ -801,7 +801,7 @@ def bot(op):
 			kr.acceptGroupInvitationByTicket(op.param1,Ti)
 			G.preventJoinByTicket = True
 			cl.updateGroup(G)
-			cl.sendText(op.param1,"?Ketik ?Help? Untuk Bantuan?\n?Harap Gunakan Dengan Bijak ^_^ ?")
+			cl.sendText(op.param1,"☆Ketik ☞Help☜ Untuk Bantuan☆\n☆Harap Gunakan Dengan Bijak ^_^ ☆")
 	    else:
                 if wait["AutoCancel"][op.param1] == True:
 		    if op.param3 in admin:
@@ -1091,7 +1091,7 @@ def bot(op):
             c = Message(to=op.param1, from_=None, text=None, contentType=13)
             c.contentMetadata={'mid':op.param2}
             cl.sendMessage(c)
-            cl.sendText(op.param1,"Hallo " + cl.getContact(op.param2).displayName + "\nWelcome To ? " + str(ginfo.name) + " ?" + "\nBudayakan Cek Note\nDan Semoga Betah Disini ^_^")
+            cl.sendText(op.param1,"Hallo " + cl.getContact(op.param2).displayName + "\nWelcome To ☞ " + str(ginfo.name) + " ☜" + "\nBudayakan Cek Note\nDan Semoga Betah Disini ^_^")
             cl.sendImageWithURL(op.param1,image)
             print "MEMBER JOIN TO GROUP"
             
@@ -1108,7 +1108,7 @@ def bot(op):
           if wait["Sambutan"] == True:
             if op.param2 in admin:
                 return
-            cl.sendText(op.param1,"Good Bye " + cl.getContact(op.param2).displayName +  "\nSee You Next Time . . . (p'?`?) ?")
+            cl.sendText(op.param1,"Good Bye " + cl.getContact(op.param2).displayName +  "\nSee You Next Time . . . (p′︵‵。) 🤗")
             random.choice(KAC).inviteIntoGroup(op.param1,[op.param2])
             print "MEMBER HAS LEFT THE GROUP"
 
@@ -1393,10 +1393,10 @@ def bot(op):
                   cl.sendText(msg.to,"The Admin List Is Empty")
               else:
                   cl.sendText(msg.to,"Tunggu...")
-                  mc = "??????????????????????\n?        ?? List Admin ??\n??????????????????????\n"
+                  mc = "╔═════════════════════\n║        ☆☞ List Admin ☜☆\n╠═════════════════════\n"
                   for mi_d in admin:
-                      mc += "?..> " +cl.getContact(mi_d).displayName + "\n"
-                  cl.sendText(msg.to,mc + "??????????????????????")
+                      mc += "╠••> " +cl.getContact(mi_d).displayName + "\n"
+                  cl.sendText(msg.to,mc + "╚═════════════════════")
                   print "[Command]Admin List executed"
                  
 
@@ -1559,7 +1559,7 @@ def bot(op):
 		    jml = 0
                     for i in gid:
 		        gn = cl.getGroup(i).name
-                        h += "??%s?\n" % (gn)
+                        h += "♦【%s】\n" % (gn)
 		        jml += 1
                     cl.sendText(msg.to,"=======[List Group]=======\n"+ h +"\nTotal Group: "+str(jml))
  
@@ -1932,21 +1932,21 @@ def bot(op):
             elif msg.text in ["Sambutan on"]:
                 if wait["Sambutan"] == True:
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"Sambutan Di Aktifkan?(*�?`*)?")
+                        cl.sendText(msg.to,"Sambutan Di Aktifkanヾ(*´∀｀*)ﾉ")
                 else:
                     wait["Sambutan"] = True
                     wait["joinkick"] = False
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"Sudah On?(�?`)/")
+                        cl.sendText(msg.to,"Sudah Onヽ(´▽｀)/")
 
             elif msg.text in ["Sambutan off"]:
                 if wait["Sambutan"] == False:
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"Sambutan Di Nonaktifkan(?^?^)")
+                        cl.sendText(msg.to,"Sambutan Di Nonaktifkan(　＾∇＾)")
                 else:
                     wait["Sambutan"] = False
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"Sudah Off(p'?`?)")
+                        cl.sendText(msg.to,"Sudah Off(p′︵‵。)")
                         
                         
             elif "Sider on" in msg.text:
@@ -1973,39 +1973,39 @@ def bot(op):
 
             elif msg.text in ["Status"]:
                 md = ""
-		if wait["Sambutan"] == True: md+="???? Sambutan : On\n"
-		else:md+="??? Sambutan : Off\n"
-		if wait["joinkick"] == True: md+="???? Join Kick : On\n"
-		else:md+="??? Join Kick : Off\n"		
-		if wait["AutoJoin"] == True: md+="???? Auto Join : On\n"
-                else: md +="??? Auto Join : Off\n"
-		if wait["AutoJoinCancel"] == True: md+="???? Auto Join Cancel : On\n"
-                else: md +="??? Auto Join Cancel : Off\n"                
-		if wait["Leave"] == True: md+="???? Leave : On\n"
-                else: md +="??? Leave : Off\n"                
-		if wait["Contact"] == True: md+="???? Info Contact : On\n"
-		else: md+="??? Info Contact : Off\n"
-                if wait["AutoCancelon"] == True:md+="???? Auto Cancel : On\n"
-                else: md+= "??? Auto Cancel : Off\n"
-                if wait["inviteprotect"] == True:md+="???? Invite Protect : On\n"
-                else: md+= "??? Invite Protect : Off\n"                
-		if wait["Qron"] == True: md+="???? Qr Protect : On\n"
-		else:md+="??? Qr Protect : Off\n"
-		if wait["AutoKickon"] == True: md+="???? Auto Kick : On\n"
-		else:md+="??? Auto Kick : Off\n"
-		if wait["Ghost"] == True: md+="???? Ghost : On\n"
-		else:md+="??? Ghost : Off\n"
-		if wait["alwaysRead"] == True: md+="???? Always Read : On\n"
-		else:md+="??? Always Read: Off\n"
-		if wait["detectMention"] == True: md+="???? Auto Respon : On\n"
-		else:md+="??? Auto Respon : Off\n"		
-		if wait["kickMention"] == True: md+="???? Auto Respon Kick : On\n"
-		else:md+="??? Auto Respon Kick : Off\n"				
-		if wait["Sider"] == True: md+="???? Auto Sider : On\n"
-		else:md+="??? Auto Sider: Off\n"	
-		if wait["Simi"] == True: md+="???? Simisimi : On\n"
-		else:md+="??? Simisimi: Off\n"		
-                cl.sendText(msg.to,"??????????????????????????\n""?           ?? S T A T U S ??\n""??????????????????????????\n"+md+"??????????????????????????")
+		if wait["Sambutan"] == True: md+="╠➩✔️ Sambutan : On\n"
+		else:md+="╠➩❌ Sambutan : Off\n"
+		if wait["joinkick"] == True: md+="╠➩✔️ Join Kick : On\n"
+		else:md+="╠➩❌ Join Kick : Off\n"		
+		if wait["AutoJoin"] == True: md+="╠➩✔️ Auto Join : On\n"
+                else: md +="╠➩❌ Auto Join : Off\n"
+		if wait["AutoJoinCancel"] == True: md+="╠➩✔️ Auto Join Cancel : On\n"
+                else: md +="╠➩❌ Auto Join Cancel : Off\n"                
+		if wait["Leave"] == True: md+="╠➩✔️ Leave : On\n"
+                else: md +="╠➩❌ Leave : Off\n"                
+		if wait["Contact"] == True: md+="╠➩✔️ Info Contact : On\n"
+		else: md+="╠➩❌ Info Contact : Off\n"
+                if wait["AutoCancelon"] == True:md+="╠➩✔️ Auto Cancel : On\n"
+                else: md+= "╠➩❌ Auto Cancel : Off\n"
+                if wait["inviteprotect"] == True:md+="╠➩✔️ Invite Protect : On\n"
+                else: md+= "╠➩❌ Invite Protect : Off\n"                
+		if wait["Qron"] == True: md+="╠➩✔️ Qr Protect : On\n"
+		else:md+="╠➩❌ Qr Protect : Off\n"
+		if wait["AutoKickon"] == True: md+="╠➩✔️ Auto Kick : On\n"
+		else:md+="╠➩❌ Auto Kick : Off\n"
+		if wait["Ghost"] == True: md+="╠➩✔️ Ghost : On\n"
+		else:md+="╠➩❌ Ghost : Off\n"
+		if wait["alwaysRead"] == True: md+="╠➩✔️ Always Read : On\n"
+		else:md+="╠➩❌ Always Read: Off\n"
+		if wait["detectMention"] == True: md+="╠➩✔️ Auto Respon : On\n"
+		else:md+="╠➩❌ Auto Respon : Off\n"		
+		if wait["kickMention"] == True: md+="╠➩✔️ Auto Respon Kick : On\n"
+		else:md+="╠➩❌ Auto Respon Kick : Off\n"				
+		if wait["Sider"] == True: md+="╠➩✔️ Auto Sider : On\n"
+		else:md+="╠➩❌ Auto Sider: Off\n"	
+		if wait["Simi"] == True: md+="╠➩✔️ Simisimi : On\n"
+		else:md+="╠➩❌ Simisimi: Off\n"		
+                cl.sendText(msg.to,"╔═════════════════════════\n""║           ☆☞ S T A T U S ☜☆\n""╠═════════════════════════\n"+md+"╚═════════════════════════")
 
 
             elif msg.text in ["Gift","gift"]:
@@ -2545,7 +2545,7 @@ def bot(op):
 
             elif msg.text in ["Setview","Setpoint","Cctv"]:
                 subprocess.Popen("echo '' > dataSeen/"+msg.to+".txt", shell=True, stdout=subprocess.PIPE)
-                cl.sendText(msg.to, "?Checkpoint Checked?")
+                cl.sendText(msg.to, "☆Checkpoint Checked☆")
                 print "Setview"
 
             elif msg.text in ["Viewseen","Check","Ciduk","Cyduk"]:
@@ -2576,14 +2576,14 @@ def bot(op):
                         dataResult.append(contactId[v].displayName + ' ('+timeSeen[v]+')')
                         pass
                     if len(dataResult) > 0:
-                        tukang = "??????????????????????\n?         ?? LIST VIEWERS ??\n??????????????????????\n??"
-                        grp = '\n?? '.join(str(f) for f in dataResult)
-                        total = '\n??????????????????????\n?? Total %i Viewers (%s)' % (len(dataResult), datetime.now().strftime('%H:%M:%S')) + "\n??????????????????????"
+                        tukang = "╔═════════════════════\n║         ☆☞ LIST VIEWERS ☜☆\n╠═════════════════════\n╠➩"
+                        grp = '\n╠➩ '.join(str(f) for f in dataResult)
+                        total = '\n╠═════════════════════\n╠➩ Total %i Viewers (%s)' % (len(dataResult), datetime.now().strftime('%H:%M:%S')) + "\n╚═════════════════════"
                         cl.sendText(msg.to, "%s %s %s" % (tukang, grp, total))
                         subprocess.Popen("echo '' > dataSeen/"+msg.to+".txt", shell=True, stdout=subprocess.PIPE)
-                        cl.sendText(msg.to, "?Auto Checkpoint?")                        
+                        cl.sendText(msg.to, "☆Auto Checkpoint☆")                        
                     else:
-                        cl.sendText(msg.to, "?Belum Ada Viewers?")
+                        cl.sendText(msg.to, "☆Belum Ada Viewers☆")
                     print "Viewseen"
 
 
@@ -2850,10 +2850,10 @@ def bot(op):
 
             elif msg.text in ["Absen"]:
 		cl.sendText(msg.to,"Pasukan Absen!!")
-                ki.sendText(msg.to,"TC1 Hadiir  \(^?^)/")
-                kk.sendText(msg.to,"TC2 Hadiir  \(^?^)/")
-                kc.sendText(msg.to,"TC3 Hadiir  \(^?^)/")
-                kr.sendText(msg.to,"Hadiir Semua Kapten  \(^?^)/")
+                ki.sendText(msg.to,"TC1 Hadiir  \(ˆ▿ˆ)/")
+                kk.sendText(msg.to,"TC2 Hadiir  \(ˆ▿ˆ)/")
+                kc.sendText(msg.to,"TC3 Hadiir  \(ˆ▿ˆ)/")
+                kr.sendText(msg.to,"Hadiir Semua Kapten  \(ˆ▿ˆ)/")
 
 
             elif msg.text.lower() in ["respon"]:
@@ -2992,11 +2992,11 @@ def bot(op):
             elif msg.text.lower() == 'clear ban':
                 if msg.from_ in admin:
                     wait["blacklist"] = {}
-                    cl.sendText(msg.to,"?( ^?^)?? ?Unbanned All Success? ?") 
+                    cl.sendText(msg.to,"ヽ( ^ω^)ﾉ└ ❉Unbanned All Success❉ ┐") 
 
             elif msg.text.lower() in ["bot","Aldier Bot"]:
                 cl.sendText(msg.to,"Apa Manggil~Manggil Aku!?") 
-                cl.sendText(msg.to,"?Ketik ?Help? Untuk Bantuan?") 
+                cl.sendText(msg.to,"☆Ketik ☞Help☜ Untuk Bantuan☆") 
 
  
             elif msg.text in ["Kill ban"]:
@@ -3489,7 +3489,7 @@ def bot(op):
                 
 
             elif msg.text.lower() in ["hi","hai","halo","hallo"]:
-                    beb = "Hi Sayang ? " +cl.getContact(msg.from_).displayName + " ??starry heart?"
+                    beb = "Hi Sayang 😘 " +cl.getContact(msg.from_).displayName + " 􀸂􀆇starry heart􏿿"
                     kr.sendText(msg.to,beb)
 
 
@@ -3873,22 +3873,22 @@ def bot(op):
                 contactlist = cl.getAllContactIds()
                 kontak = cl.getContacts(contactlist)
                 num=1
-                msgs="?????????List Friend?????????"
+                msgs="═════════List Friend═════════"
                 for ids in kontak:
                     msgs+="\n[%i] %s" % (num, ids.displayName)
                     num=(num+1)
-                msgs+="\n?????????List Friend?????????\n\nTotal Friend : %i" % len(kontak)
+                msgs+="\n═════════List Friend═════════\n\nTotal Friend : %i" % len(kontak)
                 cl.sendText(msg.to, msgs)
 
             elif msg.text in ["Memlist"]:   
                 kontak = cl.getGroup(msg.to)
                 group = kontak.members
                 num=1
-                msgs="?????????List Member?????????????-"
+                msgs="═════════List Member═�����═══════-"
                 for ids in group:
                     msgs+="\n[%i] %s" % (num, ids.displayName)
                     num=(num+1)
-                msgs+="\n?????????List Member?????????\n\nTotal Members : %i" % len(group)
+                msgs+="\n═════════List Member═════════\n\nTotal Members : %i" % len(group)
                 cl.sendText(msg.to, msgs)
 
             
@@ -4103,18 +4103,18 @@ def bot(op):
                 gid = cl.getGroupIdsJoined()
                 h = ""
                 for i in gid:
-                    h += "??" + "%s\n" % (cl.getGroup(i).name +" ~> ["+str(len(cl.getGroup(i).members))+"]")
-                cl.sendText(msg.to,"??????????????????????????\n?          ?? LIST GROUPS??\n??????????????????????????\n" + h + "??????????????????????????" + "\n? Total Groups =" +" ["+str(len(gid))+"]\n??????????????????????????")
+                    h += "╠➩" + "%s\n" % (cl.getGroup(i).name +" ~> ["+str(len(cl.getGroup(i).members))+"]")
+                cl.sendText(msg.to,"╔═════════════════════════\n║          ☆☞ LIST GROUPS☜☆\n╠═════════════════════════\n" + h + "╠═════════════════════════" + "\n║ Total Groups =" +" ["+str(len(gid))+"]\n╚═════════════════════════")
 
             elif msg.text in ["Glistmid"]:   
                 gruplist = kr.getGroupIdsJoined()
                 kontak = kr.getGroups(gruplist)
                 num=1
-                msgs="?????????List GrupMid?????????"
+                msgs="═════════List GrupMid═════════"
                 for ids in kontak:
                     msgs+="\n[%i] %s" % (num, ids.id)
                     num=(num+1)
-                msgs+="\n?????????List GrupMid?????????\n\nTotal Grup : %i" % len(kontak)
+                msgs+="\n═════════List GrupMid═════════\n\nTotal Grup : %i" % len(kontak)
                 kr.sendText(msg.to, msgs)
 
 
