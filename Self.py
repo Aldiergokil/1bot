@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 aldier = LINETCR.LINE()
 #aldier.login(qr=True)
-aldier.login(token='Eowp40VhU6bnKJaPAsV6.fuhmXP7FiLvOyAe2zzTr5G.lBFLvgo/ouxXK8QH4eQa/a3qJOaMwXo0DtFxNz9a8UM=')
+aldier.login(token='EoN3FHI8gUGRZgycLej6.fuhmXP7FiLvOyAe2zzTr5G.jLPKGyU4Iz9rVgwGaHQYz1YHmY1yZpTFCrD0uX7+uOs=')
 aldier.loginResult()
 print "aldier-Login Success\n\n=====[Sukses Login]====="
 
@@ -1566,7 +1566,7 @@ def bot(op):
 		else:md+="╠➩❌ Auto Sider: Off\n"	
 		if wait["Simi"] == True: md+="╠➩✔️ Simisimi : On\n"
 		else:md+="╠➩❌ Simisimi: Off\n"		
-                aldier.sendText(msg.to,"╔═════════════════════════\n""║           ☆☞ S T A T U S ☜☆\n""╠═════════════════════════\n"+md+"╚═════════════════════════")
+                aldier.sendText(msg.to,"╔═════════════════════\n""║           ☆☞ S T A T U S ☜☆\n""╠═════════════════════════\n"+md+"╚═════════════════════════")
 
 
             elif msg.text in ["Gift","gift"]:
