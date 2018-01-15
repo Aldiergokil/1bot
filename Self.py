@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 aldier = LINETCR.LINE()
 #aldier.login(qr=True)
-aldier.login(token='EoN3FHI8gUGRZgycLej6.fuhmXP7FiLvOyAe2zzTr5G.jLPKGyU4Iz9rVgwGaHQYz1YHmY1yZpTFCrD0uX7+uOs=')
+aldier.login(token='EovQbqDXFxzfyhdBOpt6.fuhmXP7FiLvOyAe2zzTr5G.rKGJNArUjHcg4jarHplQ9+xO6Bl5KlbnCCUEDF7IOkw=')
 aldier.loginResult()
 print "aldier-Login Success\n\n=====[Sukses Login]====="
 
@@ -1032,7 +1032,7 @@ def bot(op):
                   aldier.sendText(msg.to,"The Admin List Is Empty")
               else:
                   aldier.sendText(msg.to,"Tunggu...")
-                  mc = "╔═════════════════════════\n║        ☆☞ ADMIN aldierG ☜☆\n╠═════════════════════════\n"
+                  mc = "╔═════════════════════════\n║        ☆☞ LIST ADMIN ☜☆\n╠═════════════════════════\n"
                   for mi_d in admin:
                       mc += "╠••> " +aldier.getContact(mi_d).displayName + "\n"
                   aldier.sendText(msg.to,mc + "╚═════════════════════════")
