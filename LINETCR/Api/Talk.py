@@ -22,7 +22,8 @@ class Talk:
 
   UA = "Line/1.4.17"
 #  LA = "IOSIPAD\x097.14.0\x09iPhone_OS\x0910.12.0"
-  LA = "CHROMEOS\t1.4.17\tChrome_OS\t1"
+#  LA = "CHROMEOS\t1.4.17\tChrome_OS\t1"
+  LA = "IOSIPAD\t7.18.0\tiPhone OS\t11.12.1"
 
   authToken = None
   cert = None
