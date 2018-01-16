@@ -12,7 +12,8 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 aldier = LINETCR.LINE()
 #aldier.login(qr=True)
-aldier.login(token='Eos1h2yskpBEhMCDp6e6.fuhmXP7FiLvOyAe2zzTr5G.IJkQnc/e8Lp0t5yfx0OnCFviM6/5bKHqI40Q88xokgs=')
+#aldier.login(token='Eos1h2yskpBEhMCDp6e6.fuhmXP7FiLvOyAe2zzTr5G.IJkQnc/e8Lp0t5yfx0OnCFviM6/5bKHqI40Q88xokgs=')
+aldier.login(mail='aldiergokil@gmail.com', passwd='mobilku123')
 aldier.loginResult()
 print "aldier-Login Success\n\n=====[Sukses Login]====="
 
