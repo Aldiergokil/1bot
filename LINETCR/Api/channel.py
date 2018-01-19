@@ -18,8 +18,8 @@ class Channel:
     http_query_path = "/S4"
     channel_query_path = "/CH4"
 
-    UA = "Line/5.5.1"
-    LA = "DESKTOPMAC\t5.5.1\tMAC\t10.13.2"
+    UA = "Line/1.4.17"
+    LA = "DESKTOPMAC 10.10.2-YOSEMITE-x64 MAC 4.5.0"
     
 
     authToken = None

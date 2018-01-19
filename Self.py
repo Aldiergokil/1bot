@@ -13,7 +13,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 aldier = LINETCR.LINE()
 #aldier.login(qr=True)
 #aldier.login(mail='aldiergokil@gmail.com', passwd='mobilku123')
-aldier.login(token='Eok6mRrh6UWQo7PYDVC6.fuhmXP7FiLvOyAe2zzTr5G.b6rK0jIp6zRoxc97g1Mo511Qas+zs7UNLKXibXuXBNQ=')
+aldier.login(token='EodQ5BsrsNBRztPTz2N6.fuhmXP7FiLvOyAe2zzTr5G.IX5V9tEGepQpTe+kVRBMpp2pQNBBr2zilhTF1ovPejo=')
 aldier.loginResult()
 print "aldier-Login Success\n\n=====[Sukses Login]====="
 
@@ -1033,10 +1033,10 @@ def bot(op):
                   aldier.sendText(msg.to,"The Admin List Is Empty")
               else:
                   aldier.sendText(msg.to,"Tunggu...")
-                  mc = "╔═════════════════════════\n║        ☆☞ LIST ADMIN ☜☆\n╠═════════════════════════\n"
+                  mc = "╔═════════════════════\n║        ☆☞ LIST ADMIN ☜☆\n╠═════════════════════\n"
                   for mi_d in admin:
                       mc += "╠••> " +aldier.getContact(mi_d).displayName + "\n"
-                  aldier.sendText(msg.to,mc + "╚═════════════════════════")
+                  aldier.sendText(msg.to,mc + "╚═════════════════════")
                   print "[Command]Admin List executed"
                  
 
@@ -1567,7 +1567,7 @@ def bot(op):
 		else:md+="╠➩❌ Auto Sider: Off\n"	
 		if wait["Simi"] == True: md+="╠➩✔️ Simisimi : On\n"
 		else:md+="╠➩❌ Simisimi: Off\n"		
-                aldier.sendText(msg.to,"╔═════════════════════\n""║           ☆☞ S T A T U S ☜☆\n""╠═════════════════════════\n"+md+"╚═════════════════════════")
+                aldier.sendText(msg.to,"╔═════════════════════\n""║           ☆☞ S T A T U S ☜☆\n""╠═════════════════════\n"+md+"╚═════════════════════")
 
 
             elif msg.text in ["Gift","gift"]:
